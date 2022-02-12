@@ -1,0 +1,1 @@
+Cuando creas un archivo mediante git tienes que especificar su nombre y la extensión.
